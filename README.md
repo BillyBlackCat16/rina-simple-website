@@ -1,1 +1,1 @@
-# rina-simple-website
+# simple website
